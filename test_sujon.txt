@@ -1,1 +1,9 @@
-Test from sujon
+1 . Audio / Video Call Server:
+
+I will use Asterisk server because it's capable of handling both audio and video calls with newly added WebRTC technologies for better interoperability with video streams and endpoints.
+
+Source:
+http://info.digium.com/asterisk-15-under-the-hood-webinar-registration.html?utm_campaign=70180000001TvX5
+
+
+2. Multi Domain Email Server:
