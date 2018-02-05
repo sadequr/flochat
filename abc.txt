@@ -1,4 +1,9 @@
 This is third time changes my file
 I changed git text file for second time.
+<<<<<<< HEAD
 Test
 Test again
+=======
+
+I changed git text file for third time.
+>>>>>>> ea9d0873bd4870c9b04eb22eb484ba43e2640e6c
