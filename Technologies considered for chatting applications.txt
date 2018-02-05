@@ -1,0 +1,9 @@
+Front-end:
+	React
+	Axios / fetch
+	React-native (mobile app)
+Backend:
+	Express
+	Firebase / RethinkDB / MongoDB - (with Websocket)
+
+Reference: https://www.crazyengineers.com/threads/which-technology-stack-would-you-recommend-for-real-time-chat-system.88054/
