@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-Second edit Test 
-=======
-Test 
-Time 3:57 pm
-Time 4.00 PM From Dipok
->>>>>>> 939f62a5c5a236f1c15c907ba82b6c95d8f74ab4
