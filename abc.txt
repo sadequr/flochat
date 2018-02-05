@@ -2,6 +2,7 @@ This is third time changes my file
 I changed git text file for second time.
 <<<<<<< HEAD
 Test
+Test file
 Test again
 =======
 
