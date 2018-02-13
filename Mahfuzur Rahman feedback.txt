@@ -21,3 +21,13 @@ Reference:
 7.	https://www.applozic.com/blog/which-technologies-should-be-considered-for-making-chat-applications-like-messenger-and-whatsapp/
 8.	
 
+
+Date: 13-Feb-2018
+For Database selection:
+1. 	https://www.cargomedia.ch/2014/04/28/cassandra-vs-mongodb.html
+2. 	https://www.quora.com/Is-MongoDB-good-for-chat-implementation
+3. 	https://www.slideshare.net/gschmutz/realtime-analytics-with-apache-cassandra-and-apache-spark
+4. 	https://stackoverflow.com/questions/23832667/cassandra-or-mongodb-or-something-else-for-big-online-sales-site
+5.	https://rethinkdb.com/
+6.	https://db-engines.com/en/system/Cassandra%3BMongoDB%3BRethinkDB
+7.	
